@@ -8,4 +8,4 @@ The Amazon dataset used in paper's experiments is within the "data/" folder. The
 
 # Components
 
-To run learning process execute the "train_procedure.py" file. All hyperparameters are controlled via "config.py" file. You can modify their values within the execution command via --<parm name> <param value> syntax.
+To run learning process execute the "train_procedure.py" file. All hyperparameters are controlled via "config.py" file. You can modify their values within the execution command via --\<parm name\> \<param value\> syntax.
